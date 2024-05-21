@@ -1,0 +1,6 @@
+*.o
+qbe
+*.exe
+config.h
+.comfile
+*.out
